@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{F09B7A63-B0C2-433D-BB27-B80308D633AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.UniversityApp.Core FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.University.API FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.UniversityApp.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UniversityApp.Service FirstBuild="True" />
+</Properties>

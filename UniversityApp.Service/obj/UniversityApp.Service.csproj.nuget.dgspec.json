@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Service/UniversityApp.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/UniversityApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/UniversityApp.Core.csproj",
+        "projectName": "UniversityApp.Core",
+        "projectPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/UniversityApp.Core.csproj",
+        "packagesPath": "/Users/nergiznadirli/.nuget/packages/",
+        "outputPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nergiznadirli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/UniversityApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/UniversityApp.Data.csproj",
+        "projectName": "UniversityApp.Data",
+        "projectPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/UniversityApp.Data.csproj",
+        "packagesPath": "/Users/nergiznadirli/.nuget/packages/",
+        "outputPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nergiznadirli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/UniversityApp.Core.csproj": {
+                "projectPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/UniversityApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Service/UniversityApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Service/UniversityApp.Service.csproj",
+        "projectName": "UniversityApp.Service",
+        "projectPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Service/UniversityApp.Service.csproj",
+        "packagesPath": "/Users/nergiznadirli/.nuget/packages/",
+        "outputPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nergiznadirli/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/UniversityApp.Data.csproj": {
+                "projectPath": "/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Data/UniversityApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

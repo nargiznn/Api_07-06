@@ -1,0 +1,12 @@
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/bin/Debug/net6.0/UniversityApp.Core.deps.json
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/bin/Debug/net6.0/UniversityApp.Core.dll
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/bin/Debug/net6.0/UniversityApp.Core.pdb
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.AssemblyInfo.cs
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.dll
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/refint/UniversityApp.Core.dll
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.pdb
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/ref/UniversityApp.Core.dll
+/Users/nergiznadirli/Desktop/UniversityApp/UniversityApp.Core/obj/Debug/net6.0/UniversityApp.Core.sourcelink.json
